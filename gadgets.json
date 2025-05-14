@@ -1,0 +1,263 @@
+[
+  {
+    "id": 1,
+    "category": "mobile",
+    "name": "iPhone 15 Pro",
+    "price": 999.99,
+    "description": "Latest Apple iPhone with A17 Pro chip, 48MP camera, and titanium design",
+    "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-15-pro-max-1.jpg",
+    "specifications": {
+      "storage": "256GB",
+      "color": "Natural Titanium",
+      "ram": "8GB"
+      
+    }
+  },
+  {
+    "id": 2,
+    "category": "mobile",
+    "name": "Samsung Galaxy S24 Ultra",
+    "price": 1199.99,
+    "description": "Premium Android flagship with S Pen and advanced AI features",
+    "image": "https://www.google.com/imgres?q=samsung%20s24%20ultra&imgurl=https%3A%2F%2Fwww.zdnet.com%2Fa%2Fimg%2F2024%2F02%2F02%2F1bfa7d30-112c-4906-83a7-ce12551b7b16%2Fgalaxy-s24-ultra.jpg&imgrefurl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fsamsung-galaxy-s24-ultra-review%2F&docid=o5Whhm0BxRCrAM&tbnid=Ydo7cIPqsCJoYM&vet=12ahUKEwjHjpeBnqONAxU7RmwGHdNiIS8QM3oECEcQAA..i&w=2048&h=1365&hcb=2&ved=2ahUKEwjHjpeBnqONAxU7RmwGHdNiIS8QM3oECEcQAA",
+    "specifications": {
+      "storage": "512GB",
+      "color": "Titanium Black",
+      "ram": "12GB"
+    }
+  },
+  {
+    "id": 3,
+    "category": "laptop",
+    "name": "MacBook Pro M3",
+    "price": 1999.99,
+    "description": "Powerful laptop with M3 Pro chip, perfect for professionals",
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp14-spacegray-select-202310?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1697311054290",
+    "specifications": {
+      "processor": "M3 Pro",
+      "ram": "16GB",
+      "storage": "512GB SSD"
+    }
+  },
+  {
+    "id": 4,
+    "category": "laptop",
+    "name": "Dell XPS 15",
+    "price": 1799.99,
+    "description": "Premium Windows laptop with InfinityEdge display",
+    "image": "https://i.dell.com/is/image/DellContent/content/dam/images2/products/notebooks/xps-notebooks/xps-15-9520/media-gallery/black/laptop-xps-15-9520-t-black-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=402&qlt=100,1&resMode=sharp2&size=402,402&chrss=full",
+    "specifications": {
+      "processor": "Intel Core i9",
+      "ram": "32GB",
+      "storage": "1TB SSD"
+    }
+  },
+  {
+    "id": 5,
+    "category": "mouse",
+    "name": "Logitech MX Master 3S",
+    "price": 99.99,
+    "description": "Premium wireless mouse with ultra-fast scrolling",
+    "image": "https://resource.logitech.com/content/dam/logitech/en/products/mice/mx-master-3s/gallery/mx-master-3s-mouse-top-view-graphite.png",
+    "specifications": {
+      "connectivity": "Bluetooth/Unifying",
+      "battery": "70 days",
+      "dpi": "8000"
+    }
+  },
+  {
+    "id": 6,
+    "category": "mouse",
+    "name": "Razer DeathAdder V3 Pro",
+    "price": 159.99,
+    "description": "Professional gaming mouse with Focus Pro 30K sensor",
+    "image": "https://assets3.razerzone.com/DEATHADDER_V3_PRO_WHITE_1500x1500_1.png",
+    "specifications": {
+      "connectivity": "Wireless",
+      "weight": "63g",
+      "dpi": "30000"
+    }
+  },
+  {
+    "id": 7,
+    "category": "mobile",
+    "name": "Google Pixel 8 Pro",
+    "price": 899.99,
+    "description": "Google's flagship with advanced AI camera features",
+    "image": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-8-pro-1.jpg",
+    "specifications": {
+      "storage": "256GB",
+      "color": "Obsidian",
+      "ram": "12GB"
+    }
+  },
+  {
+    "id": 8,
+    "category": "laptop",
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "price": 1699.99,
+    "description": "Business laptop with military-grade durability",
+    "image": "https://www.lenovo.com/medias/lenovo-laptop-thinkpad-x1-carbon-gen-11-14-hero.png?context=bWFzdGVyfHJvb3R8MjM1NTEwfGltYWdlL3BuZ3xoYWMvaGYwLzEzNDUyNzU5NDU5MTE4LnBuZ3w5ZjM0YzM5YzM5YzM5YzM5YzM5YzM5YzM5YzM5YzM5YzM5YzM5YzM5YzM5YzM5YzM5YzM5YzM5YzM5",
+    "specifications": {
+      "processor": "Intel Core i7",
+      "ram": "16GB",
+      "storage": "1TB SSD"
+    }
+  },
+  {
+    "id": 9,
+    "category": "mouse",
+    "name": "Microsoft Surface Precision Mouse",
+    "price": 79.99,
+    "description": "Premium mouse designed for productivity",
+    "image": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3o?ver=5c31",
+    "specifications": {
+      "connectivity": "Bluetooth",
+      "battery": "3 months",
+      "buttons": "6 programmable"
+    }
+  },
+  {
+    "id": 10,
+    "category": "mobile",
+    "name": "OnePlus 12",
+    "price": 699.99,
+    "description": "Flagship killer with Hasselblad camera system",
+    "image": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-12-1.jpg",
+    "specifications": {
+      "storage": "256GB",
+      "color": "Silky Black",
+      "ram": "16GB"
+    }
+  },
+  {
+    "id": 11,
+    "category": "laptop",
+    "name": "ASUS ROG Zephyrus G14",
+    "price": 1499.99,
+    "description": "Gaming laptop with AMD Ryzen 9 processor",
+    "image": "https://dlcdnwebimgs.asus.com/gain/5A4A0D5A-0B3C-4F7C-B4A5-5D5D5D5D5D5D",
+    "specifications": {
+      "processor": "AMD Ryzen 9",
+      "ram": "32GB",
+      "storage": "1TB SSD"
+    }
+  },
+  {
+    "id": 12,
+    "category": "mouse",
+    "name": "Logitech G Pro X Superlight",
+    "price": 149.99,
+    "description": "Ultra-lightweight wireless gaming mouse with HERO sensor",
+    "image": "https://resource.logitechg.com/w_692,c_lpad,ar_4:3,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/pro-x-superlight/pro-x-superlight-gallery-1.png?v=1",
+    "specifications": {
+      "connectivity": "Wireless",
+      "weight": "63g",
+      "dpi": "25600"
+    }
+  },
+  {
+    "id": 13,
+    "category": "mobile",
+    "name": "Xiaomi 14 Pro",
+    "price": 899.99,
+    "description": "Flagship smartphone with Leica camera system",
+    "image": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-14-pro-1.jpg",
+    "specifications": {
+      "storage": "512GB",
+      "color": "Black",
+      "ram": "16GB"
+    }
+  },
+  {
+    "id": 14,
+    "category": "laptop",
+    "name": "HP Spectre x360",
+    "price": 1299.99,
+    "description": "Convertible laptop with OLED display and premium design",
+    "image": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c08174528.png",
+    "specifications": {
+      "processor": "Intel Core i7",
+      "ram": "16GB",
+      "storage": "1TB SSD"
+    }
+  },
+  {
+    "id": 15,
+    "category": "mouse",
+    "name": "Corsair Dark Core RGB Pro",
+    "price": 79.99,
+    "description": "Wireless gaming mouse with RGB lighting and customizable buttons",
+    "image": "https://www.corsair.com/corsairmedia/sys_master/productcontent/CH-9315511-NA-Dark_Core_RGB_Pro_SE_01.png",
+    "specifications": {
+      "connectivity": "Wireless/Bluetooth",
+      "battery": "50 hours",
+      "dpi": "18000"
+    }
+  },
+  {
+    "id": 16,
+    "category": "mobile",
+    "name": "Nothing Phone (2)",
+    "price": 599.99,
+    "description": "Unique design with Glyph interface and clean Android experience",
+    "image": "https://fdn2.gsmarena.com/vv/pics/nothing/nothing-phone-2-1.jpg",
+    "specifications": {
+      "storage": "256GB",
+      "color": "Dark Gray",
+      "ram": "12GB"
+    }
+  },
+  {
+    "id": 17,
+    "category": "laptop",
+    "name": "Microsoft Surface Laptop Studio",
+    "price": 1599.99,
+    "description": "Innovative laptop with dynamic display and powerful performance",
+    "image": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4P7xX?ver=8a58&q=90&m=6&h=705&w=1253&b=%23FFFFFFFF&f=jpg&o=f&p=140&aim=true",
+    "specifications": {
+      "processor": "Intel Core i7",
+      "ram": "32GB",
+      "storage": "1TB SSD"
+    }
+  },
+  {
+    "id": 18,
+    "category": "mouse",
+    "name": "Zowie EC2-C",
+    "price": 69.99,
+    "description": "Professional esports mouse with perfect sensor and ergonomic design",
+    "image": "https://zowie.benq.com/img/product/ec2-c/ec2-c-1.png",
+    "specifications": {
+      "connectivity": "Wired",
+      "weight": "73g",
+      "dpi": "3200"
+    }
+  },
+  {
+    "id": 19,
+    "category": "mobile",
+    "name": "ASUS ROG Phone 8",
+    "price": 999.99,
+    "description": "Gaming smartphone with advanced cooling and high refresh rate",
+    "image": "https://fdn2.gsmarena.com/vv/pics/asus/asus-rog-phone-8-1.jpg",
+    "specifications": {
+      "storage": "512GB",
+      "color": "Phantom Black",
+      "ram": "16GB"
+    }
+  },
+  {
+    "id": 20,
+    "category": "laptop",
+    "name": "Alienware x16",
+    "price": 2499.99,
+    "description": "Premium gaming laptop with advanced cooling and RGB lighting",
+    "image": "https://i.dell.com/is/image/DellContent/content/dam/images2/products/notebooks/alienware/alienware-x16/aw-x16-r1-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=402&qlt=100,1&resMode=sharp2&size=402,402&chrss=full",
+    "specifications": {
+      "processor": "Intel Core i9",
+      "ram": "32GB",
+      "storage": "2TB SSD"
+    }
+  }
+]
